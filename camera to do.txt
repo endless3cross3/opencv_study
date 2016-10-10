@@ -1,0 +1,32 @@
+android camera 拍照 保存 - Google 搜尋
+https://www.google.com.tw/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#newwindow=1&q=android+camera+%E6%8B%8D%E7%85%A7+%E4%BF%9D%E5%AD%98
+
+Android自定义照相机实现（拍照、保存到SD卡，利用Bundle在Acitivity交换数据） - 巫山老妖 - 博客频道 - CSDN.NET
+http://blog.csdn.net/wwj_748/article/details/8927784
+
+Controlling the Camera | Android Developers
+https://developer.android.com/training/camera/cameradirect.html
+
+Taking Photos Simply | Android Developers
+https://developer.android.com/training/camera/photobasics.html
+
+PictureCallback bitmap - Google 搜尋
+https://www.google.com.tw/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=PictureCallback+bitmap&newwindow=1&tbs=lr:lang_1zh-CN%7Clang_1zh-TW&lr=lang_zh-CN%7Clang_zh-TW
+
+Android Camera探究之路——起步 - eclipse_xu - 博客频道 - CSDN.NET
+http://blog.csdn.net/eclipsexys/article/details/46626291
+
+Android編程: 實現Android照相機的拍照功能(Camera.takePicture)
+http://androidbiancheng.blogspot.tw/2010/12/androidcameratakepicture.html
+
+android 筆記 --- 相機應用 - 瘋子的遐想 - ITeye技術網站
+http://zkl-1987.iteye.com/blog/1055041
+
+Android code to make jpeg picture that fits with camera preview size
+https://gist.github.com/tomoima525/8770542
+
+超完整！Android获取图片的三种方法 - 简书
+http://www.jianshu.com/p/d4793d32a5fb
+
+android - Take a picture with camera and get bitmap - Stack Overflow
+http://stackoverflow.com/questions/23921128/take-a-picture-with-camera-and-get-bitmap
